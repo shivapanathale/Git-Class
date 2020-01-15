@@ -6,4 +6,3 @@ reverse.o:reverse.c
 	gcc -c reverse.c
 main.o:main.c
 	gcc -c main.c
-
